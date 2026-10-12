@@ -1,0 +1,12 @@
+Pune aici pozele reale (cursanți, concerte, ore, scenă), redenumite în ordine:
+
+  poza-1.jpg
+  poza-2.jpg
+  poza-3.jpg
+  ...
+
+(merg și .png, .jpeg sau .webp; numerotarea trebuie să fie continuă, fără goluri)
+
+Ele apar automat în secțiunea „Galerie", împreună cu afișele din folderul „afise".
+Dacă ambele foldere sunt goale, secțiunea nu se afișează.
+Recomandare: imagini sub ~500 KB fiecare, ca site-ul să rămână rapid.
