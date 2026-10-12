@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 118 118" width="512" height="512" role="img" aria-label="STANA BASS ACADEMY"><g transform="translate(0 0)">
+<rect x="7" y="7" width="108" height="108" rx="26" fill="#190a3a"/>
+<rect x="2.5" y="2.5" width="107" height="107" rx="24" fill="#ff3d9a" stroke="#190a3a" stroke-width="5"/>
+<line x1="12" x2="100" y1="30" y2="30" stroke="#fff7ea" stroke-width="2" stroke-linecap="round"/><line x1="12" x2="100" y1="44" y2="44" stroke="#fff7ea" stroke-width="2.6" stroke-linecap="round"/><line x1="12" x2="100" y1="68" y2="68" stroke="#fff7ea" stroke-width="3.4" stroke-linecap="round"/><line x1="12" x2="100" y1="82" y2="82" stroke="#fff7ea" stroke-width="4.2" stroke-linecap="round"/>
+<polygon points="25.0,25.0 39.9,25.0 56.0,48.6 72.1,25.0 87.0,25.0 63.4,56.0 87.0,87.0 72.1,87.0 56.0,63.4 39.9,87.0 25.0,87.0 48.6,56.0" fill="#ffd23f" stroke="#190a3a" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="92" cy="22" r="6" fill="#27e0e6" stroke="#190a3a" stroke-width="3"/>
+</g></svg>
