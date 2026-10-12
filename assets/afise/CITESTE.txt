@@ -1,0 +1,11 @@
+Pune aici afișele, redenumite în ordine:
+
+  afis-1.jpg
+  afis-2.jpg
+  afis-3.jpg
+  ...
+
+(merg și .png, .jpeg sau .webp; numerotarea trebuie să fie continuă, fără goluri)
+
+Dacă folderul rămâne gol, secțiunea „Afișe" nu apare pe site.
+Poți șterge acest fișier după ce adaugi imaginile.
